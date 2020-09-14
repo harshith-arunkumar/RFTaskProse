@@ -1,0 +1,14 @@
+﻿using semantics ProseTutorial.Semantics;
+using learners ProseTutorial.WitnessFunctions;
+
+language OperateDesiredValue;
+
+@complete feature int Score = ProseTutorial.RankingScore;
+
+@input int[] arr;
+
+@start int program := Add(arr, program, program) | Mul(arr, program, program) | Div(arr, ele, ele) | ele;
+
+int ele := Element(arr, index);
+
+int index;
