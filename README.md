@@ -1,10 +1,10 @@
 # RFTaskProse
 
-# ERROR NOTE: 
+## ERROR NOTE: 
 There is a slight continuation error in the client file Program.cs while taking input, so after you press option "1", and give your input, 
 you will get your answer. However to try out a new sample, please exit and restart the program again! Did not have time to fix this :)
 
-# USAGE:
+# EXPLAINING CODE REPO:
 Download the repo and open "prose.soln" in Visual Studio 2017. The folder "ProseTutorial" contains my grammar, semantics and witness function code files.
 
 Code repository containing my assignment content for the RF task on PROSE.
