@@ -20,8 +20,8 @@ You need to design a DSL for this, write the Semantics and Witness functions.
 
 # Menu: 
 Select one of the options:
-1. provide new example
-3. exit
+1. 1 - provide new example
+3. 3 - exit
 
 
 # NOTE:
