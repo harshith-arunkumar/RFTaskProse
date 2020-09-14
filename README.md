@@ -33,3 +33,4 @@ Select one of the options:
 
 1. Since need for ranking of programs wasn't specified, in the Ranking Score file, only 1 was returned everywhere.
 2. Top 50 programs are returned, however this can be changed in Program.Cs.
+3. There are some places where I've reduced the input space, this might not be needed apart from efficiency purposes.
