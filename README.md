@@ -1,10 +1,12 @@
 # RFTaskProse
 
-Usage: Download the repo and open "prose.soln" in Visual Studio 2017. The folder "ProseTutorial" contains my grammar, semantics and witness function code files.
+USAGE:
+Download the repo and open "prose.soln" in Visual Studio 2017. The folder "ProseTutorial" contains my grammar, semantics and witness function code files.
 
 Code repository containing my assignment content for the RF task on PROSE.
 
-Problem Statement: Your goal is to take a list of positive integers and check if you can operate on them to get a desired value.
+Problem Statement: 
+Your goal is to take a list of positive integers and check if you can operate on them to get a desired value.
 The only operators you have are Add, Multiply, Divide and ElementAt. Also, we do not care if all the numbers in the list are used or not; 
 and a number can be used multiple times as well. As an example, say you have {[1, 2, 3, 4], 7} then your output can consists of programs like :
 
@@ -12,11 +14,13 @@ and a number can be used multiple times as well. As an example, say you have {[1
 2. Add(Element(2), Element(3))
 You need to design a DSL for this, write the Semantics and Witness functions.
 
-Menu: Select one of the options:
+Menu: 
+Select one of the options:
 1. provide new example
 3. exit
 
-ERROR NOTE: There is a slight continuation error in the client file Program.cs while taking input, so after you press option "1", and give your input, 
+#ERROR NOTE: 
+There is a slight continuation error in the client file Program.cs while taking input, so after you press option "1", and give your input, 
 you will get your answer. However to try out a new sample, please exit and restart the program again! Did not have time to fix this :)
 
 NOTE:
