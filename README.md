@@ -1,6 +1,6 @@
 # RFTaskProse
 
-Usage: Download the repo and open "prose.soln" in Visual Studio 2017.
+Usage: Download the repo and open "prose.soln" in Visual Studio 2017. The folder "ProseTutorial" contains my grammar, semantics and witness function code files.
 
 Code repository containing my assignment content for the RF task on PROSE.
 
